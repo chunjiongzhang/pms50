@@ -1,5 +1,11 @@
+## 主要贡献者
+###  负责人
+- 王佳旭 ([@DatawhaleXiuyuan](https://github.com/DatawhaleXiuyuan))
+## 参与成员（按首字母排名）
+- 王佳旭 ([@DatawhaleXiuyuan](https://github.com/DatawhaleXiuyuan))
+- 排骨   ([@spareribs](https://github.com/spareribs))
 
-# python可视化50图解读(Pms50-Notes)
+## python可视化50图解读(Pms50-Notes)
 python可视化50图是由博主大佬Selva Prabhakaran于2018年12月在自己网站发布的一篇优秀的博文。当小编在学习数据可视化的时候发现了这篇优秀博文，但是
 - 博文不是中文
 - 代码没有注解
