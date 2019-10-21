@@ -75,7 +75,7 @@ sns.set_style('white')
                    
 gridobj = sns.lmplot(x = 'displ',       # 横坐标
                    y = 'hwy',           # 纵坐标 
-                    hue = 'cyl',        # 定义绘制数据的子集
+                    hue = 'cyl',        # 定义被绘制数据的子集
                     data = df_select,   # 绘图所需要的数据集
                     height = 7,         # 每个子图的高度
                     aspect = 1.6,       # 每个子图的宽高比
@@ -129,11 +129,22 @@ plt.show()
 ![chapter1-0.png](res/chapter3-2.png)
 
 
+### 博文总结
 
+#### 索引
+- .loc[ ]__标签索引
+- .iloc[ ]__位置索引
 
-
-
-
+#### sns.lmplot
+- 回归模型绘制
+- 参数
+    - x__横坐标标称
+    - y__纵坐标标称
+    - hue__定义被绘制数据的子集
+    - data__绘图所需要的数据集
+    - height__每个子图的高度
+    - aspect__每个子图的宽高比
+    - palette__调色板
 
 
 
